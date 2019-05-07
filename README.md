@@ -6,10 +6,10 @@
 *Outline*
  - [Libraries](#dependencies)
  - [Specifications](#python-definition)
- - [Shots](#screenhots)
+ - [Shots](#screenshots)
 
 ### Dependencies
-    Following python libraries were used.
+   Following python libraries were used.
 - *sqlite3*
 - *argparse*
 - *datetime*
@@ -32,13 +32,14 @@
 
 
 #### Screenshots
-
+<small>
 <p align="center">
-        <img src = "https://github.com/jaymalk/CLI-Todo-List/blob/master/readme_files/basic.png">
+        <img src = "https://github.com/jaymalk/CLI-Todo-List/blob/master/readme_files/basic.png" width=50% height=50%>
 </p>
 <p align="center">
-        <img src = "https://github.com/jaymalk/CLI-Todo-List/blob/master/readme_files/detail.png">
+        <img src = "https://github.com/jaymalk/CLI-Todo-List/blob/master/readme_files/detail.png" width=50% height=50%>
 </p>
 <p align="center">
-        <img src = "https://github.com/jaymalk/CLI-Todo-List/blob/master/readme_files/sorted.png">
+        <img src = "https://github.com/jaymalk/CLI-Todo-List/blob/master/readme_files/sorted.png" width=50% height=50%>
 </p>
+</small>
